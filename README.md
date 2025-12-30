@@ -95,21 +95,22 @@ This guarantees both educational validity and technical scalability.
 This repository includes a complete set of professional teaching materials, all generated, adapted, or structured using the documented AI methodology.
 
 ### Core Lesson & Source Materials
-* **Maisa-Interviews-Millie-Bobby-Brown.docx**: Original lesson plan based on the video interview, serving as the pedagogical foundation of the project.
-* **MAISA-and-MILLIE-BOBBY-BROWN-transcript-languagereactor.docx**: Full interview transcript extracted via Language Reactor, used for linguistic analysis, adaptation, and leveling.
+* **01-Maisa-Interviews-Millie-Bobby-Brown.docx**: Original lesson plan based on the video interview, serving as the pedagogical foundation of the project.
+* **04-Maisa-entrevista-a-Millie-Bobby-Brown.docx**: Documented interview context and lesson details.
+* **08-MAISA-and-MILLIE-BOBBY-BROWN-transcript-languagereactor.docx**: Full interview transcript extracted via Language Reactor, used for linguistic analysis, adaptation, and leveling.
 
 ### Teaching Materials by CEFR Level
-* **Lesson-Materials-B1.docx**: CEFR B1 teaching materials including reading, listening, speaking, writing, vocabulary, and grammar activities.
-* **Lesson-Materials-C1.docx**: Advanced CEFR C1 version of the lesson with higher-level discourse, critical thinking, and lexical depth.
+* **02-Lesson-Materials-B1.docx**: CEFR B1 teaching materials including reading, listening, speaking, writing, vocabulary, and grammar activities.
+* **05-Lesson-Materials-C1.docx**: Advanced CEFR C1 version of the lesson with higher-level discourse, critical thinking, and lexical depth.
 
 ### Lesson Planning & Templates
-* **Professional-Lesson-Plan-Template-Video-Based-Class-extra-mat.docx**: Reusable professional template for creating video-based lessons using AI-supported workflows.
+* **06-Professional-Lesson-Plan-Template-Video-Based-Class-extra-mat.docx**: Reusable professional template for creating video-based lessons using AI-supported workflows.
 
 ### Presentation & Classroom Support
-* **Presentation-Maisa-Interviews-Millie-Bobby-Brown.pptx**: Classroom-ready presentation to support guided discussion, vocabulary work, and listening tasks.
+* **03-Presentation-Maisa-Interviews-Millie-Bobby-Brown.pptx**: Classroom-ready presentation to support guided discussion, vocabulary work, and listening tasks.
 
 ### Portfolio & Professional Documentation
-* **Teaching-Portfolio – Lesson-Models-extra-mat.docx**: Teaching portfolio document showcasing lesson models, methodology, and instructional design decisions.
+* **07-Teaching-Portfolio – Lesson-Models-extra-mat.docx**: Teaching portfolio document showcasing lesson models, methodology, and instructional design decisions.
 
 ---
 
