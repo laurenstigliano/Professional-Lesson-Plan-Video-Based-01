@@ -171,3 +171,191 @@ Todos os prompts seguem o seguinte modelo:
 - Os prompts podem ser adaptados para outros idiomas, níveis e formatos de aula.
 
 ---
+
+# PROMPTS.md  
+## Project IA 01 — Prompt Engineering for Language Teaching
+
+**Version:** v1.0  
+**Last updated:** 2025-12-29  
+
+This document lists all prompts used in the development of teaching materials for **Project IA 01**, organized chronologically and classified by pedagogical objective.
+
+The prompts are designed for **educational use of AI**, focusing on lesson planning, material creation, leveling, and cross-linguistic adaptation.
+
+---
+
+## 🔹 Prompt Design Standard
+
+All prompts follow the same structural logic:
+
+**Role → Context → Task → Constraints → Output**
+
+This structure ensures:
+- Reusability  
+- Clarity  
+- Scalability  
+- Professional documentation  
+
+---
+
+## 🟦 Category 1 — Lesson Planning (Base)
+
+### Prompt 01 — Lesson plan creation from authentic material
+
+**Pedagogical objective:** Structured lesson planning (Input + Guided Practice)
+
+**Prompt:**
+> **Role:** You are an online private English teacher.  
+> **Context:** The base material is a PDF containing an interview titled *“Maisa Interviews Millie Bobby Brown”*.  
+> **Task:** Create a complete lesson plan.  
+> **Constraints:**  
+> – 18-year-old student  
+> – B1 level (CEFR)  
+> – One-to-one online lesson  
+> – Reusable structure for other levels  
+> **Output:**  
+> A well-organized lesson plan including objectives, lesson stages, activities, and level adaptation suggestions.
+
+---
+
+## 🟦 Category 2 — Professionalization & Portfolio
+
+### Prompt 02 — Conversion into a portfolio-ready lesson model
+
+**Pedagogical objective:** Professional documentation and replicability
+
+**Prompt:**
+> **Role:** You are an instructional design specialist for language teachers.  
+> **Context:** A lesson plan has already been created.  
+> **Task:** Transform the lesson plan into a professional, portfolio-ready lesson model.  
+> **Constraints:**  
+> – Clear and objective language  
+> – Reusable structure  
+> – Professional presentation focus  
+> **Output:**  
+> A standardized lesson template ready to be included in a teaching portfolio.
+
+---
+
+### Prompt 03 — Multimodal teaching portfolio creation
+
+**Pedagogical objective:** Input diversification and methodological range
+
+**Prompt:**
+> **Role:** You are an experienced language teacher creating a professional portfolio.  
+> **Context:** The portfolio should demonstrate methodological versatility.  
+> **Task:** Create three distinct lesson models.  
+> **Constraints:**  
+> – One video-based lesson  
+> – One music-based lesson  
+> – One article-based lesson  
+> **Output:**  
+> Three independent lesson models, clearly structured and ready for professional presentation.
+
+---
+
+## 🟦 Category 3 — Teaching Materials Development
+
+### Prompt 04 — Creation of complementary teaching materials
+
+**Pedagogical objective:** Guided practice, consolidation, and learner output
+
+**Prompt:**
+> **Role:** You are an English teacher specialized in materials development.  
+> **Context:** There is an existing lesson plan based on the interview *“Maisa Interviews Millie Bobby Brown”*.  
+> **Task:** Develop complementary teaching materials.  
+> **Constraints:**  
+> – Additional texts  
+> – Comprehension and language-use exercises  
+> – Alignment with the lesson objectives  
+> **Output:**  
+> Ready-to-use complementary materials for classroom application.
+
+---
+
+## 🟦 Category 4 — Target Language Control
+
+### Prompt 05 — Standardization to English-only materials
+
+**Pedagogical objective:** Linguistic immersion and input consistency
+
+**Prompt:**
+> **Role:** You are an English as a Foreign Language (EFL) specialist.  
+> **Context:** The material contains explanations in more than one language.  
+> **Task:** Rewrite the entire material keeping English as the main language.  
+> **Constraints:**  
+> – Clarity  
+> – Coherence  
+> – Language appropriate to the learners’ level  
+> **Output:**  
+> A final version of the material written entirely in English.
+
+---
+
+## 🟦 Category 5 — CEFR Leveling
+
+### Prompt 06 — Adaptation to C1 level
+
+**Pedagogical objective:** Linguistic depth and critical thinking
+
+**Prompt:**
+> **Role:** You are a CEFR specialist in advanced English teaching.  
+> **Context:** The material was originally developed for an intermediate level.  
+> **Task:** Adapt the material to C1 level.  
+> **Constraints:**  
+> – Inclusion of a C1-level text  
+> – More sophisticated vocabulary  
+> – Analytical and reflective discussion questions  
+> **Output:**  
+> A complete version of the material adapted to CEFR C1 level.
+
+---
+
+## 🟦 Category 6 — Cross-Linguistic Transfer
+
+### Prompt 07 — Adaptation to Spanish B2
+
+**Pedagogical objective:** Methodological transfer between languages
+
+**Prompt:**
+> **Role:** You are a Spanish as a Foreign Language teacher.  
+> **Context:** The lesson plan was originally created in English based on a transcript.  
+> **Task:** Transform the lesson plan into a Spanish version.  
+> **Constraints:**  
+> – B2 level (CEFR)  
+> – Maintain original structure, metrics, and objectives  
+> – Linguistic appropriateness for Spanish learners  
+> **Output:**  
+> A complete lesson plan in Spanish at CEFR B2 level.
+
+---
+
+## 🧠 Prompt Classification Overview
+
+| Category | Primary Function |
+|--------|------------------|
+| Lesson Planning | Base lesson creation |
+| Professionalization | Portfolio and templates |
+| Materials | Texts and exercises |
+| Language Control | Target language consistency |
+| Leveling | CEFR adaptation |
+| Transfer | Multilingual methodology |
+
+---
+
+## 📌 Notes
+
+- All prompts were used in real instructional design contexts.
+- The project emphasizes AI as a **pedagogical support tool**, not a replacement for teachers.
+- Prompts are adaptable to other languages, proficiency levels, and lesson formats.
+
+---
+
+## 🏷 Version History
+
+- **v1.0** — Initial release  
+  - Complete prompt standardization  
+  - Pedagogical classification  
+  - English documentation for public repositories  
+
+---
