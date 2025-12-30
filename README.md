@@ -1,4 +1,4 @@
-### AI-Powered Prompt Engineering for Language Education
+# AI-Powered Prompt Engineering for Language Education
 
 ## 🚀 Overview
 
