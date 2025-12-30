@@ -1,0 +1,173 @@
+# PROMPTS.md  
+## Projeto IA 01 — Prompt Engineering aplicado ao Ensino de Idiomas
+
+Este documento reúne todos os prompts utilizados no desenvolvimento dos materiais didáticos do **Projeto IA 01**, organizados de forma cronológica e classificados por objetivo pedagógico.
+
+Os prompts seguem uma estrutura padronizada para garantir:
+- Reutilização
+- Clareza
+- Escalabilidade
+- Documentação profissional para fins educacionais e técnicos
+
+---
+
+## 🔹 Estrutura Padrão dos Prompts
+
+Todos os prompts seguem o seguinte modelo:
+
+**Role → Context → Task → Constraints → Output**
+
+---
+
+## 🟦 Categoria 1 — Planejamento de Aula (Base)
+
+### Prompt 01 — Criação de plano de aula a partir de material autêntico
+
+**Objetivo pedagógico:** Planejamento didático estruturado (Input + Guided Practice)
+
+**Prompt:**
+> **Role:** Você é uma professora de inglês particular online.  
+> **Context:** O material base é um arquivo PDF com uma entrevista intitulada *“Maisa Interviews Millie Bobby Brown”*.  
+> **Task:** Criar um plano de aula completo.  
+> **Constraints:**  
+> – Aluna de 18 anos  
+> – Nível B1 (CEFR)  
+> – Aula online individual  
+> – Estrutura reutilizável para outros níveis  
+> **Output:**  
+> Um plano de aula organizado com objetivos, etapas da aula, atividades e sugestões de adaptação de nível.
+
+---
+
+## 🟦 Categoria 2 — Profissionalização e Portfólio
+
+### Prompt 02 — Conversão para modelo de portfólio
+
+**Objetivo pedagógico:** Documentação profissional e replicabilidade
+
+**Prompt:**
+> **Role:** Você é uma especialista em design instrucional para professores de idiomas.  
+> **Context:** Existe um plano de aula já criado.  
+> **Task:** Transformar esse plano em um modelo profissional para portfólio docente.  
+> **Constraints:**  
+> – Linguagem clara e objetiva  
+> – Estrutura reutilizável  
+> – Foco em apresentação profissional  
+> **Output:**  
+> Um modelo de aula padronizado, pronto para ser incluído em um portfólio.
+
+---
+
+### Prompt 03 — Criação de portfólio multimodal
+
+**Objetivo pedagógico:** Diversificação de input e metodologias
+
+**Prompt:**
+> **Role:** Você é uma professora de idiomas experiente criando um portfólio profissional.  
+> **Context:** O portfólio deve demonstrar versatilidade metodológica.  
+> **Task:** Criar três modelos de aula distintos.  
+> **Constraints:**  
+> – Um modelo baseado em vídeo  
+> – Um modelo baseado em música  
+> – Um modelo baseado em artigo  
+> **Output:**  
+> Três modelos de aula independentes, organizados e prontos para apresentação profissional.
+
+---
+
+## 🟦 Categoria 3 — Desenvolvimento de Materiais Didáticos
+
+### Prompt 04 — Criação de materiais complementares
+
+**Objetivo pedagógico:** Consolidação, prática guiada e output linguístico
+
+**Prompt:**
+> **Role:** Você é uma professora de inglês especializada em materiais didáticos.  
+> **Context:** Existe um plano de aula baseado na entrevista *“Maisa Interviews Millie Bobby Brown”*.  
+> **Task:** Desenvolver materiais didáticos complementares.  
+> **Constraints:**  
+> – Textos adicionais  
+> – Exercícios de compreensão e uso da língua  
+> – Alinhamento com os objetivos do plano  
+> **Output:**  
+> Materiais complementares prontos para uso em aula.
+
+---
+
+## 🟦 Categoria 4 — Controle de Idioma-Alvo
+
+### Prompt 05 — Padronização do idioma para inglês
+
+**Objetivo pedagógico:** Imersão linguística e consistência de input
+
+**Prompt:**
+> **Role:** Você é uma especialista em ensino de inglês como língua estrangeira.  
+> **Context:** O material contém explicações em mais de um idioma.  
+> **Task:** Reescrever todo o material mantendo o inglês como língua principal.  
+> **Constraints:**  
+> – Clareza  
+> – Coerência  
+> – Linguagem apropriada ao nível do aluno  
+> **Output:**  
+> Versão final do material 100% em inglês.
+
+---
+
+## 🟦 Categoria 5 — Nivelamento Linguístico (CEFR)
+
+### Prompt 06 — Adaptação para nível C1
+
+**Objetivo pedagógico:** Aprofundamento linguístico e pensamento crítico
+
+**Prompt:**
+> **Role:** Você é uma especialista em CEFR e ensino avançado de inglês.  
+> **Context:** Existe um material originalmente desenvolvido para nível intermediário.  
+> **Task:** Adaptar o material para nível C1.  
+> **Constraints:**  
+> – Inclusão de texto em nível C1  
+> – Vocabulário mais sofisticado  
+> – Perguntas de análise e reflexão  
+> **Output:**  
+> Versão completa do material adequada ao nível C1.
+
+---
+
+## 🟦 Categoria 6 — Transferência Interlinguística
+
+### Prompt 07 — Adaptação para Espanhol B2
+
+**Objetivo pedagógico:** Transferência metodológica entre línguas
+
+**Prompt:**
+> **Role:** Você é uma professora de espanhol como língua estrangeira.  
+> **Context:** O plano de aula foi originalmente criado em inglês a partir de uma transcrição.  
+> **Task:** Transformar o plano de aula em uma versão para espanhol.  
+> **Constraints:**  
+> – Nível B2 (CEFR)  
+> – Manter métricas, estrutura e objetivos originais  
+> – Adequação linguística ao espanhol  
+> **Output:**  
+> Plano de aula completo em espanhol nível B2.
+
+---
+
+## 🧠 Visão Geral — Classificação dos Prompts
+
+| Categoria | Função Principal |
+|--------|----------------|
+| Planejamento | Criação de plano base |
+| Profissionalização | Portfólio e modelos |
+| Materiais | Textos e exercícios |
+| Linguagem | Controle de idioma |
+| Nivelamento | CEFR |
+| Transferência | Multilíngue |
+
+---
+
+## 📌 Observações
+
+- Todos os prompts foram utilizados em contexto real de criação de materiais didáticos.
+- O foco do projeto é o uso de IA como ferramenta pedagógica, não como substituição do professor.
+- Os prompts podem ser adaptados para outros idiomas, níveis e formatos de aula.
+
+---
