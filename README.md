@@ -1,4 +1,3 @@
-# Professional Lesson Plan — Video Based 01  
 ### AI-Powered Prompt Engineering for Language Education
 
 ## 🚀 Overview
