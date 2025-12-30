@@ -1,4 +1,4 @@
-# Project IA 01  
+# Professional Leesson Plan Video Based 01  
 ### AI-Powered Prompt Engineering for Language Education
 
 ## 🚀 Overview
